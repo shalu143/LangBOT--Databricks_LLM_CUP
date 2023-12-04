@@ -32,6 +32,7 @@ Our idea is to bridge this gap. People should be allowed to express themselves, 
 ## Built-with
 We have used:
 * Gradioio is used to build the front-end of the app. [Gradio](https://www.gradio.app/)
+* Databricks was used for Coding. All the framework is designed in Databricks [Databricks](https://www.databricks.com/)
 * We have used LLAMA-2 70b chat as the chosen Large Language Model. MosaicML inferencing was used to get the chat completion output from the prompt. [MosaicML](https://www.mosaicml.com/)
 * Embeddings were done using Instructor-xl model [HuggingFace Embedding](https://huggingface.co/hkunlp/instructor-xl)
 * The Embeddings were stored in the ChromaDb vector database. [Chromadb](https://www.trychroma.com/)
