@@ -13,6 +13,7 @@ Databricks LLM CUP: Ready to launch your AI game to new heights? Build, iterate 
     * [Getting Started](#Getting-started)
     * [Built-with](#Built-with)
     * [Acknowledgments](#Acknowledgments)
+    * [What's next for सखा- भाषा अब कोई बाधा नहीं है](#What's next for सखा- भाषा अब कोई बाधा नहीं है)
  
 ## Short Description
 ### What's the Problem
@@ -37,4 +38,10 @@ We have used:
 * Embeddings were done using Instructor-xl model [HuggingFace Embedding](https://huggingface.co/hkunlp/instructor-xl)
 * The Embeddings were stored in the ChromaDb vector database. [Chromadb](https://www.trychroma.com/)
 * Langchain and MLflow were used for the framework and pipeline of  the app. [Langchain](https://www.langchain.com/) and [MLflow](https://mlflow.org/)
+
+## What's next for सखा- भाषा अब कोई बाधा नहीं है
+* Currently for demo purpose, we have built the solution for hindi language. The Same to be Scaled for different regional languages.
+* Fine-Tuning Llama 70b chat model with the hindi custom data
+* Fine-Tuning the model with other local native languages
+* Scaling the solution for different organizations
 
