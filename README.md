@@ -1,9 +1,9 @@
 #  सखा- भाषा अब कोई बाधा नहीं है
-# Sakha- Language is no more barrier
+# Sakha-Language is no more barrier
 Databricks LLM CUP: Ready to launch your AI game to new heights? Build, iterate and polish your LLM ideas into shiny, production-ready solutions with this competition.
 
 ## Contents
-* [Submission or Project Name]
+* [Submission or Project Name](#Sakha-Language-is-no-more-barrier)
     * [Contents](#Contents)
     * [Short Description](#Short-description)
          * [What's the Problem?](#what's-the-problem)
