@@ -28,3 +28,12 @@ Our idea is to bridge this gap. People should be allowed to express themselves, 
 * RAG: The translated prompt is converted to embeddings using Instructor-xl embeddings and searched in the created vector database(chroma) from the local language personalised data.
 * The Prompt with the context (most similar embeddings from the semantic search) is passed to the LLM for the result
 * Translation: Translation of result in the local language
+
+## Built-with
+We have used:
+* Gradioio is used to build the front-end of the app. 
+* We have used LLAMA-2 70b chat as the chosen Large Language Model. MosaicML inferencing was used to get the chat completion output from the prompt.
+* Embeddings were done using Instructor-xl model
+* The Embeddings were stored in the ChromaDb vector database.
+* Langchain and MLflow were used for the framework and pipeline of  the app.
+
