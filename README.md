@@ -3,7 +3,7 @@
 Databricks LLM CUP: Ready to launch your AI game to new heights? Build, iterate and polish your LLM ideas into shiny, production-ready solutions with this competition.
 
 ## Contents
-* [Submission or Project Name](#Prakriti)
+* [Submission or Project Name]
     * [Contents](#Contents)
     * [Short Description](#Short-description)
          * [What's the Problem?](#what's-the-problem)
