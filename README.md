@@ -26,15 +26,15 @@ Our idea is to bridge this gap. People should be allowed to express themselves, 
 
 # Advantages
 * Increased Customer Reach
- * Supporting multiple languages, a chatbot can reach a wider audience and provide assistance to users who may not speak the same language
- * Make information and services – especially essential services like Banking – more accessible to people
- * This benefits both – the people as well as the company.
+   Supporting multiple languages, a chatbot can reach a wider audience and provide assistance to users who may not speak the same language
+   Make information and services – especially essential services like Banking – more accessible to people
+   This benefits both – the people as well as the company.
 
 * Improved Personalization
- * Multi-lingual chatbots can provide personalized recommendations and tailored experiences to users based on their language and cultural preferences.
+   Multi-lingual chatbots can provide personalized recommendations and tailored experiences to users based on their language and cultural preferences.
 
 * Enhanced Customer Service
- * Chatbots can provide better customer service and help resolve issues more efficiently, thus leading to increased customer satisfaction.
+   Chatbots can provide better customer service and help resolve issues more efficiently, thus leading to increased customer satisfaction.
 
 ## The Architecture
 * The user opens the Gradio app and has options of typing the data in the local language
