@@ -24,7 +24,7 @@ There are many geographical regions in the world, where more than one language i
 ### The Idea
 Our idea is to bridge this gap. People should be allowed to express themselves, ask their queries in their own language. We propose a solution that Let people ask queries in local language, use LLMs to understand and get information in English and translate this back into local language. We harness the power of Large Language Models for two uses – one to translate from local language to English and vice-versa, find most similar query in our database, if not then to answer his query via base LLM. This solution intends to let people query and get their queries answered in their own local language. This will only be applicable to those languages that are supported by the underlying LLM. This will not only help businesses especially banks reach out wider population but to get benefits of banking reach the common man and help him improve his financial prospects. 
 
-# Advantages
+### Advantages
 * Increased Customer Reach:
    Supporting multiple languages, a chatbot can reach a wider audience and provide assistance to users who may not speak the same language
    Make information and services – especially essential services like Banking – more accessible to people
@@ -36,6 +36,14 @@ Our idea is to bridge this gap. People should be allowed to express themselves, 
 * Enhanced Customer Service:
    Chatbots can provide better customer service and help resolve issues more efficiently, thus leading to increased customer satisfaction.
 
+## Demo Video
+[Demo Video][https://youtu.be/CetVtC_p3q4]
+
+## Getting Started
+* Use link [gradio](htps://93dfd7ec6727684e8d.gradio.live) which is valid for 72 hours
+* use the script and run it to get the link that can be used
+
+
 ## The Architecture
 * The user opens the Gradio app and has options of typing the data in the local language
 * Translation: Utilizing given prompt in given local language using LLM (Llama-70b-chat) through mlflow route.
@@ -45,7 +53,7 @@ Our idea is to bridge this gap. People should be allowed to express themselves, 
 
 ## Built-with
 We have used:
-* Gradioio is used to build the front-end of the app. [Gradio](https://www.gradio.app/)
+* Gradio is used to build the front-end of the app. [Gradio](https://www.gradio.app/)
 * Databricks was used for Coding. All the framework is designed in Databricks [Databricks](https://www.databricks.com/)
 * We have used LLAMA-2 70b chat as the chosen Large Language Model. MosaicML inferencing was used to get the chat completion output from the prompt. [MosaicML](https://www.mosaicml.com/)
 * Embeddings were done using Instructor-xl model [HuggingFace Embedding](https://huggingface.co/hkunlp/instructor-xl)
