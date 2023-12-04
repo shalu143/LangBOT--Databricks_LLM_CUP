@@ -25,15 +25,15 @@ There are many geographical regions in the world, where more than one language i
 Our idea is to bridge this gap. People should be allowed to express themselves, ask their queries in their own language. We propose a solution that Let people ask queries in local language, use LLMs to understand and get information in English and translate this back into local language. We harness the power of Large Language Models for two uses – one to translate from local language to English and vice-versa, find most similar query in our database, if not then to answer his query via base LLM. This solution intends to let people query and get their queries answered in their own local language. This will only be applicable to those languages that are supported by the underlying LLM. This will not only help businesses especially banks reach out wider population but to get benefits of banking reach the common man and help him improve his financial prospects. 
 
 # Advantages
-* Increased Customer Reach
+* Increased Customer Reach:
    Supporting multiple languages, a chatbot can reach a wider audience and provide assistance to users who may not speak the same language
    Make information and services – especially essential services like Banking – more accessible to people
    This benefits both – the people as well as the company.
 
-* Improved Personalization
+* Improved Personalization:
    Multi-lingual chatbots can provide personalized recommendations and tailored experiences to users based on their language and cultural preferences.
 
-* Enhanced Customer Service
+* Enhanced Customer Service:
    Chatbots can provide better customer service and help resolve issues more efficiently, thus leading to increased customer satisfaction.
 
 ## The Architecture
