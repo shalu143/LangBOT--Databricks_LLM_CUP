@@ -40,7 +40,7 @@ Our idea is to bridge this gap. People should be allowed to express themselves, 
 [Demo Video](https://youtu.be/7ksZJzD74Jw)
 
 ## Getting Started
-* Use link [gradio](htps://93dfd7ec6727684e8d.gradio.live) which is valid for 72 hours
+* [gradio](htps://93dfd7ec6727684e8d.gradio.live) link which is valid for 72 hours
 * use the script and run it to get the link that can be used
 
 
